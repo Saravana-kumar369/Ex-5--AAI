@@ -14,6 +14,7 @@ Step 5: Store the estimated state in a list.<BR>
 Step 6: Plot the true and estimated positions.<BR>
 
 <H3>Program:</H3>
+
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -58,7 +59,6 @@ plt.legend()
 plt.show()
 
 ```
-
 <H3>Output:</H3>
 
 ![image](https://github.com/user-attachments/assets/3695b1c4-8a5b-496d-b65c-3d360b2ba9c4)
